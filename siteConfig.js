@@ -51,8 +51,12 @@ module.exports = {
       },
                  
        {
-        label: "קרסו נדלן מאיה",
-        url: "https://maya.tase.co.il/company/2384",
+        label: "ריצה",
+        url: "https://werun.co.il",
+      },
+       {
+        label: "פרסום",
+        url: "https://weadvertise.co.il",
       },
       
     ],
@@ -87,7 +91,7 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "yarokaz",
+    title: "movefix",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
